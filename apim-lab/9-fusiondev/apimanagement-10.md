@@ -13,7 +13,7 @@ In this exercise, you will be using [Star Wars API](https://swapi.dev/) with Azu
 
 ### Update CORS policy
 
-Check API Management -> Developer Portal -> Portal overview to see if CORS has been enabled globally. If it has been enabled, go to All APIs and add https://flow.microsoft.com as an allowed origin. Here's what the Portal overview will look like if CORS has been enabled:
+Check API Management -> Developer Portal -> Portal overview to see if CORS has been enabled globally. If it has been enabled, go to All APIs and add https://make.powerapps.com as an allowed origin. Here's what the Portal overview will look like if CORS has been enabled:
 
 ![](../../assets/images/apim-cors-policy-update.png)
 

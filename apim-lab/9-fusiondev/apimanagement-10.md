@@ -47,9 +47,9 @@ If you are unable to create a Power Connector from Azure API Management, you can
 7. In the **Policies** section select + New policy.
 8. Fill out the new policy with the following information:
 
-![](../../assets/images/apim-cors-policy-update.png)
+![](../../assets/images/apim-powerapp-cors-policy-update-1.png)
 
-![](../../assets/images/apim-cors-policy-update.png)
+![](../../assets/images/apim-powerapp-cors-policy-update-2.png)
 
 9. Next, **Update connector**.
 
